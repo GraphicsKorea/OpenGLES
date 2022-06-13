@@ -4,7 +4,7 @@
 
 #include <array>
 #include <vector>
-#include <catch2/catch.hpp>
+#include <catch2/catch_all.hpp>
 #include <Base/utility.h>
 
 TEST_CASE("바이트 사이즈 계산", "[Utility]") {

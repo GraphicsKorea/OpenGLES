@@ -3,7 +3,7 @@
 //
 
 #include <array>
-#include <catch2/catch.hpp>
+#include <catch2/catch_all.hpp>
 #include <Base/Window.h>
 
 TEST_CASE("윈도우 생성 및 변경", "[Window]") {
